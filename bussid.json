@@ -76,6 +76,55 @@
       "image":"file:///android_asset/truck.webp",
       "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
       "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 7,
+      "category":"Bis",
+      "title":"Harapan Jaya",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 8,
+      "category":"Bis",
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 9,
+      "category":"Bis",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 10,
+      "category":"Truk",
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+    } ,
+    {
+      "id": 11,
+      "category":"Mobil",
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 12,
+      "category":"Truk",
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     }
   ]
 }
