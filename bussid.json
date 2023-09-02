@@ -71,11 +71,11 @@
     },
     {
       "id": 6,
-      "category":"Motor",
-      "title": "ZX25R Hijau",
-         "image": "https://raw.githubusercontent.com/RikkiIbrahim88/modmotorimage/main/modmotorimage/Kawasaki%20Ninja%20ZX-6R%20V2%20Full%20Modif%20by%20AzuMods.png",
-         "link_mods": "https://github.com/RikkiIbrahim88/modmotor1/blob/main/modmotor/Kawasaki%20Ninja%20ZX-6R%20V2%20Full%20Modif%20by%20AzuMods.bussidmod?raw=true",
-         "link_livery": "null"
+      "category":"Truk",
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
       "id": 7,
