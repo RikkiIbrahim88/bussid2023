@@ -31,84 +31,84 @@
     {
       "id": 1,
       "category":"Bis",
-      "title":"Bus Haryanto Parholong SR2 XHD Prime Full Anim",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Mobil1/main/Audi%20A1%20Clubsport%20Quattro%20cvt%20Hanzoo%20Mod.jpeg",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bus1/raw/main/Bus%20Avengers.bussidmod",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Avengers.png"
+      "title":"Harapan Jaya",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
       "id": 2,
       "category":"Bis",
-      "title":"Bus Evolander DOP",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/MODSR2/main/Jetbus%202%20HD/MOD-BUSSID-JB2-HD-by-AS-cvt-FM.webp",
-      "link_mods":"https://github.com/RikkiIbrahim88/Bussid_Bus1/raw/main/Bus%20Evolander%20DOP.bussidvehicle",
-      "link_livery":"https://raw.githubusercontent.com/RikkiIbrahim88/Bussid_Bus1/main/Bus%20Evolander%20DOP.png"
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":"null"
     },
     {
       "id": 3,
       "category":"Bis",
-      "title": "Jetbus 2 HD",
-         "image": "https://raw.githubusercontent.com/RikkiIbrahim88/MODSR2/main/Jetbus%202%20HD/MOD-BUSSID-JB2-HD-by-AS-cvt-FM.webp",
-         "link_mods": "https://github.com/RikkiIbrahim88/MODSR2/blob/main/Jetbus%202%20HD/JB2HD%20ALCOA%20FULL%20VARIASI%20BARANG.bussidmod?raw=true",
-         "link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/MODSR2/main/Jetbus%202%20HD/PMTOH%20JBHD%202%20ASXFM%20Blahbloh.png"
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
     }
   ,
     {
       "id": 4,
       "category":"Truk",
-      "title": "Actor Sawit",
-         "image": "https://raw.githubusercontent.com/RikkiIbrahim88/modbussid/main/AktorSawit/AS.png",
-         "link_mods": "https://github.com/RikkiIbrahim88/modbussid/blob/main/AktorSawit/Aktor%20Sawit.bussidmod?raw=true",
-         "link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/modbussid/main/AktorSawit/Aktor%20Sawit.png"
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
     } ,
     {
       "id": 5,
       "category":"Mobil",
       "title":"Jaguar XE SV Project 8",
-      "image":"https://modbussid.co.id/wp-content/uploads/2023/06/MEDAL-SEKARWANGI.jpeg",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
       "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
     },
     {
       "id": 6,
-      "category":"Motor",
-      "title":"ZX25R Hijau",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/modmotorimage/main/modmotorimage/Kawasaki%20Ninja%20ZX-6R%20V2%20Full%20Modif%20by%20AzuMods.png",
-      "link_mods":"https://github.com/RikkiIbrahim88/modmotor1/blob/main/modmotor/Kawasaki%20Ninja%20ZX-6R%20V2%20Full%20Modif%20by%20AzuMods.bussidmod?raw=true",
-      "link_livery":"null"
+      "category":"Truk",
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
       "id": 7,
-      "category":"Motor",
-      "title":"ZX25R STANDAR",
-      "image":"https://raw.githubusercontent.com/RikkiIbrahim88/modmotorimage/main/modmotorimage/ZX25R%20STANDAR%20BY%20JODS%20TV.png",
-      "link_mods":"https://github.com/RikkiIbrahim88/modmotor1/blob/main/modmotor/ZX25R%20STANDAR%20BY%20JODS%20TV.bussidmod?raw=true",
-      "link_livery":"null"
+      "category":"Bis",
+      "title":"Harapan Jaya",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     },
     {
       "id": 8,
-      "category":"Motor",
-      "title": "Harley Davidson",
-      "image": "https://raw.githubusercontent.com/RikkiIbrahim88/modmotorimage/main/modmotorimage/Harley%20Davidson%20by%20AzuMods.png",
-      "link_mods": "https://github.com/RikkiIbrahim88/modmotor1/blob/main/modmotor/Harley%20Davidson%20by%20AzuMods.bussidmod?raw=true",
+      "category":"Bis",
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
       "link_livery":"null"
     },
     {
       "id": 9,
-      "category":"Motor",
-      "title": "Honda CBR 150R Velg Standar",
-      "image": "https://raw.githubusercontent.com/RikkiIbrahim88/modmotorimage/main/modmotorimage/Honda%20CBR%20150R%20V1%20Velg%20Standar%20by%20AzuMods.png",
-      "link_mods": "https://github.com/RikkiIbrahim88/modmotor1/blob/main/modmotor/Honda%20CBR%20150R%20V1%20Velg%20Standar%20by%20AzuMods.bussidmod?raw=true",
+      "category":"Bis",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
       "link_livery":"null"
     }
   ,
     {
       "id": 10,
       "category":"Truk",
-      "title": "Jetbus 2 HD",
-         "image": "https://raw.githubusercontent.com/RikkiIbrahim88/MODSR2/main/Jetbus%202%20HD/MOD-BUSSID-JB2-HD-by-AS-cvt-FM.webp",
-         "link_mods": "https://github.com/RikkiIbrahim88/MODSR2/blob/main/Jetbus%202%20HD/JB2HD%20ALCOA%20FULL%20VARIASI%20BARANG.bussidmod?raw=true",
-         "link_livery": "https://raw.githubusercontent.com/RikkiIbrahim88/MODSR2/main/Jetbus%202%20HD/PMTOH%20JBHD%202%20ASXFM%20Blahbloh.png"
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
     } ,
     {
       "id": 11,
@@ -121,10 +121,108 @@
     {
       "id": 12,
       "category":"Truk",
-      "title": "Guntur Barokah",
-      "image": "https://raw.githubusercontent.com/RikkiIbrahim88/modbussid/main/GunturBarokah/GB.png",
-      "link_mods": "https://github.com/RikkiIbrahim88/modbussid/blob/main/GunturBarokah/Guntur%20Barokah.bussidmod?raw=true",
-      "link_livery": "https://github.com/RikkiIbrahim88/modbussid/raw/main/GunturBarokah/GUNTUR%20BAROKAH.png"
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 13,
+      "category":"Bis",
+      "title":"Harapan Jaya",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 14,
+      "category":"Bis",
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 15,
+      "category":"Bis",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 16,
+      "category":"Truk",
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+    } ,
+    {
+      "id": 17,
+      "category":"Mobil",
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 18,
+      "category":"Truk",
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 19,
+      "category":"Bis",
+      "title":"Harapan Jaya",
+      "image":"file:///android_asset/bus.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
+    },
+    {
+      "id": 20,
+      "category":"Bis",
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 21,
+      "category":"Bis",
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    }
+  ,
+    {
+      "id": 22,
+      "category":"Truk",
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+    } ,
+    {
+      "id": 23,
+      "category":"Mobil",
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "id": 24,
+      "category":"Truk",
+      "title":"Truck Oleng",
+      "image":"file:///android_asset/truck.webp",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery Harapan Jaya SR2 Triple Axle.png"
     }
   ]
 }
